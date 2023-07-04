@@ -1,0 +1,16 @@
+[
+{
+  "modid": "yourmodid",
+  "name": "YourModID",
+  "description": "YourModName",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ME!"],
+  "credits": "Moon!!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
