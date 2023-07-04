@@ -6,7 +6,7 @@ import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import net.minecraftforge.common.MinecraftForge;
 
-@Mod(modid = Main.MODID)
+@Mod(modid = Main.MODID, dependencies = "required-after:manametalmod;after:sittable")
 public class Main {
     public static final String MODID = "with_rest";
     static boolean isSittableInstall = false;

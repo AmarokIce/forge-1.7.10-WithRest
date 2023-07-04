@@ -1,14 +1,14 @@
 [
 {
-  "modid": "yourmodid",
-  "name": "YourModID",
-  "description": "YourModName",
+  "modid": "with_rest",
+  "name": "WithRest",
+  "description": "WithRest",
   "version": "1.0",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ME!"],
-  "credits": "Moon!!",
+  "authorList": ["Someoneice"],
+  "credits": "Sit down, and have a rest!",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
